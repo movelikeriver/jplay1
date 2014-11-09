@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mote</string>
+
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="demo_collection">Demo Collection</string>
+    <string name="tab0">Home</string>
+
+    <string name="tab1">Explore</string>
+
+    <string name="tab2">Camera</string>
+    <string name="section_camera_text">This is camera tab</string>
+
+    <string name="tab3">Edit</string>
+    <string name="tab4">Me</string>
+</resources>
